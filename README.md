@@ -6,3 +6,5 @@ the plus(+) sign is used to enter list typed
 once list is entered, it automatically adds an oredered numbering to the list
 one tap on any list items strikes it out
 double tap deletes the item from your list.
+
+HERE is a link to view: preyetodos.netlify.app
